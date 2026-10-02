@@ -1,6 +1,6 @@
 ---
 name: ads-audit
-description: "Run a source-grounded paid-advertising audit for one or more of Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, and X. Use for full ad checks, account health reviews, paid-media diagnostics, partial audits after authentication or worker failure, missing-platform weighting, beta-feature eligibility and scoring, spend audits, tracking audits, or prioritized opportunities and risks."
+description: "Run a source-grounded paid-advertising audit for one or more of Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, and X. Use for full ad checks, account health reviews, paid-media diagnostics, partial audits after authentication or worker failure, missing-platform weighting, beta-feature eligibility and scoring, spend audits, tracking audits, or prioritized opportunities and risks. Also use when the request is written in Vietnamese, for example \"kiểm tra tài khoản quảng cáo\", \"đánh giá hiệu quả quảng cáo\", \"tài khoản quảng cáo có vấn đề gì\"."
 ---
 
 # Paid Advertising Audit

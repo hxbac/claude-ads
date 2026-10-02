@@ -1,6 +1,6 @@
 ---
 name: ads-plan
-description: "Create a professional paid-advertising strategy covering objectives, economics, platform selection, campaign architecture, audiences, budget, creative, measurement, experiments, governance, rollout, and reporting. Use for ad plan, media plan, PPC strategy, paid-social strategy, campaign architecture, advertising roadmap, or channel planning."
+description: "Create a professional paid-advertising strategy covering objectives, economics, platform selection, campaign architecture, audiences, budget, creative, measurement, experiments, governance, rollout, and reporting. Use for ad plan, media plan, PPC strategy, paid-social strategy, campaign architecture, advertising roadmap, or channel planning. Also use when the request is written in Vietnamese, for example \"lên kế hoạch quảng cáo\", \"kế hoạch quảng cáo Facebook\", \"kế hoạch truyền thông trả phí\", \"chiến lược quảng cáo cho shop mỹ phẩm\"."
 ---
 
 # Paid Media Plan
@@ -26,6 +26,15 @@ description: "Create a professional paid-advertising strategy covering objective
 7. Assign every action an owner, timing, dependency, guardrail, evidence, success
    measure, and rollback or exit condition.
 8. Return canonical JSON and render the requested human plan.
+
+Vietnam default: when the request is in Vietnamese or names Vietnam, plan in VND,
+for location Vietnam, and write the plan in Vietnamese, unless the operator says
+otherwise. Load `ads/references/vietnam-market.md` and
+`ads/references/vietnam-ad-compliance.md`. If the product is cosmetics,
+functional food, a health service, medicine, education, real estate or finance,
+put the content pre-approval requirement at the top of the plan before any
+budget or channel. Market figures are illustrative until the operator supplies
+an export.
 
 A plan is advisory. It becomes an account change only through launch or optimize
 mutation gates.

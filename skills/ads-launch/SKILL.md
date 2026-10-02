@@ -1,6 +1,6 @@
 ---
 name: ads-launch
-description: "Draft or explicitly apply a paid-ad campaign launch through Claude Ads capability-gated adapters. Use for campaign creation, launch plans, publishing ads, activating campaigns, uploading creative, or requests to push a campaign live."
+description: "Draft or explicitly apply a paid-ad campaign launch through Claude Ads capability-gated adapters. Use for campaign creation, launch plans, publishing ads, activating campaigns, uploading creative, or requests to push a campaign live. Also use when the request is written in Vietnamese, for example \"chuẩn bị chạy chiến dịch quảng cáo\", \"lên bản nháp chiến dịch quảng cáo\"."
 ---
 
 # Campaign Launch

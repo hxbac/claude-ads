@@ -1,6 +1,6 @@
 ---
 name: ads-apple
-description: "Audit Apple Ads measurement, AdServices and AdAttributionKit, campaign and keyword structure, Search Match, App Store placements, custom product pages, bidding, budgets, MMP reconciliation, and policy. Use for Apple Ads, Apple Search Ads, App Store ads, Search Match, custom product pages, AdServices, or Apple app-install campaigns."
+description: "Audit Apple Ads measurement, AdServices and AdAttributionKit, campaign and keyword structure, Search Match, App Store placements, custom product pages, bidding, budgets, MMP reconciliation, and policy. Use for Apple Ads, Apple Search Ads, App Store ads, Search Match, custom product pages, AdServices, or Apple app-install campaigns. Also use when the request is written in Vietnamese, for example \"quảng cáo Apple Search Ads\", \"quảng cáo cài đặt ứng dụng iOS\"."
 ---
 
 # Apple Ads Audit

@@ -1,6 +1,6 @@
 ---
 name: ads-monitor
-description: "Monitor paid-ad account pacing, delivery, performance, creative fatigue, tracking, policy, and data quality across supported platforms. Use for daily or weekly checks, anomaly review, budget pacing, post-launch verification, or campaign monitoring."
+description: "Monitor paid-ad account pacing, delivery, performance, creative fatigue, tracking, policy, and data quality across supported platforms. Use for daily or weekly checks, anomaly review, budget pacing, post-launch verification, or campaign monitoring. Also use when the request is written in Vietnamese, for example \"theo dõi quảng cáo hằng ngày\", \"quảng cáo đang tiêu quá nhanh\", \"cảnh báo quảng cáo\"."
 ---
 
 # Paid Media Monitoring

@@ -1,6 +1,6 @@
 ---
 name: ads-create
-description: "Create source-grounded paid-ad campaign concepts, messaging, copy, creative briefs, and production plans from a validated brand profile, campaign objective, platform requirements, and optional audit evidence. Triggers on: campaign brief, campaign concepts, create a campaign, ad concepts, ad copy, ad messaging, creative brief, headlines, descriptions."
+description: "Create source-grounded paid-ad campaign concepts, messaging, copy, creative briefs, and production plans from a validated brand profile, campaign objective, platform requirements, and optional audit evidence. Triggers on: campaign brief, campaign concepts, create a campaign, ad concepts, ad copy, ad messaging, creative brief, headlines, descriptions. Also use when the request is written in Vietnamese, for example \"viết mẫu quảng cáo\", \"viết content quảng cáo\", \"viết tiêu đề quảng cáo\", \"ý tưởng chiến dịch quảng cáo\"."
 ---
 
 # Campaign Concepts and Copy
@@ -23,6 +23,14 @@ description: "Create source-grounded paid-ad campaign concepts, messaging, copy,
    `microsoft-creative-specs.md`; use the dated source ledger for every current
    specification claim.
 7. Return a versioned creative brief and copy deck inside the run directory.
+
+Vietnam default: when the request is in Vietnamese or names Vietnam, write the
+copy in Vietnamese with full diacritics, one consistent register, and load
+`ads/references/vietnamese-ad-copy.md` and
+`ads/references/vietnam-ad-compliance.md`. Check the product category for
+pre-approval and banned claims before drafting, and list the documents the
+operator must hold for each claim. Character limits are illustrative until
+checked in the ad manager preview.
 
 Do not invent testimonials, certifications, scarcity, prices, outcomes, or regulated
 claims. Human review remains required before production or launch.

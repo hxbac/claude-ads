@@ -1,6 +1,6 @@
 ---
 name: ads-optimize
-description: "Diagnose and draft or explicitly apply paid-ad optimizations using evidence, financial constraints, experiments, and capability-gated adapters. Use for campaign optimization, budget reallocation, bid changes, pausing or archiving ads, requests to delete campaigns, search-term or negative-keyword actions, creative rotation, or improving CPA and ROAS."
+description: "Diagnose and draft or explicitly apply paid-ad optimizations using evidence, financial constraints, experiments, and capability-gated adapters. Use for campaign optimization, budget reallocation, bid changes, pausing or archiving ads, requests to delete campaigns, search-term or negative-keyword actions, creative rotation, or improving CPA and ROAS. Also use when the request is written in Vietnamese, for example \"tối ưu quảng cáo\", \"giảm chi phí mỗi đơn quảng cáo\", \"tối ưu chiến dịch đang chạy\"."
 ---
 
 # Paid Media Optimization

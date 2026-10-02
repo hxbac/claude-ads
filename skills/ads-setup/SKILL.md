@@ -1,6 +1,6 @@
 ---
 name: ads-setup
-description: "Set up a paid-media client, brand, account, data-source, privacy, and mutation-guardrail profile for Claude Ads. Use for onboarding, initial configuration, brand DNA, API tokens or credential profiles, environment-variable or keychain setup, connecting exports or read adapters, safe native or verified-local installation, curl-pipe-bash install requests, declaring KPIs, or preparing a new advertising project."
+description: "Set up a paid-media client, brand, account, data-source, privacy, and mutation-guardrail profile for Claude Ads. Use for onboarding, initial configuration, brand DNA, API tokens or credential profiles, environment-variable or keychain setup, connecting exports or read adapters, safe native or verified-local installation, curl-pipe-bash install requests, declaring KPIs, or preparing a new advertising project. Also use when the request is written in Vietnamese, for example \"cài đặt tài khoản quảng cáo\", \"thiết lập chạy quảng cáo\", \"lưu khóa API quảng cáo\"."
 ---
 
 # Paid Media Setup

@@ -1,6 +1,6 @@
 ---
 name: ads-photoshoot
-description: "Generate rights-cleared paid-ad product photography variants from an authorized source image and validated brand profile. Triggers on: product photo, product photography, virtual photoshoot, photoshoot, enhance product image, studio shot, lifestyle shot, lifestyle product image, floating product image, ingredient shot."
+description: "Generate rights-cleared paid-ad product photography variants from an authorized source image and validated brand profile. Triggers on: product photo, product photography, virtual photoshoot, photoshoot, enhance product image, studio shot, lifestyle shot, lifestyle product image, floating product image, ingredient shot. Also use when the request is written in Vietnamese, for example \"chụp ảnh sản phẩm cho quảng cáo\", \"ảnh sản phẩm quảng cáo\"."
 ---
 
 # Product Photography Variants

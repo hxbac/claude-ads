@@ -1,6 +1,6 @@
 ---
 name: ads-server-side-tracking
-description: "Audit server-side paid-media measurement including server-side tag management, platform conversion APIs, event taxonomy, browser/server deduplication, consent, hashing, data quality, observability, and privacy. Use for server-side tracking, sGTM, server-side tagging, CAPI, Events API, event_id, pixel debugging, first-party measurement, or conversion data loss."
+description: "Audit server-side paid-media measurement including server-side tag management, platform conversion APIs, event taxonomy, browser/server deduplication, consent, hashing, data quality, observability, and privacy. Use for server-side tracking, sGTM, server-side tagging, CAPI, Events API, event_id, pixel debugging, first-party measurement, or conversion data loss. Also use when the request is written in Vietnamese, for example \"theo dõi chuyển đổi phía máy chủ\", \"Conversions API\", \"gửi đơn hàng đã giao về Facebook\"."
 ---
 
 # Server-Side Tracking Audit

@@ -1,6 +1,6 @@
 ---
 name: ads
-description: "Operate professional paid advertising across Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, and X. Use for account intake, source-grounded audits, strategy, budget and measurement planning, creative production, experiments, reporting, monitoring, and explicitly approved campaign changes. Also trigger on PPC, paid social, retail media, attribution, tracking, landing pages, cross-platform conversion totals, negative keywords or search terms, beta-feature scoring, stale platform claims, API-token or credential setup, campaign deletion, and safe Claude Ads installation or uninstall."
+description: "Operate professional paid advertising across Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, and X. Use for account intake, source-grounded audits, strategy, budget and measurement planning, creative production, experiments, reporting, monitoring, and explicitly approved campaign changes. Also trigger on PPC, paid social, retail media, attribution, tracking, landing pages, cross-platform conversion totals, negative keywords or search terms, beta-feature scoring, stale platform claims, API-token or credential setup, campaign deletion, and safe Claude Ads installation or uninstall. Also use when the request is written in Vietnamese, for example \"chạy quảng cáo\", \"quảng cáo trả phí\", \"lên kế hoạch quảng cáo\", \"kiểm tra tài khoản quảng cáo\", \"quảng cáo cho shop\", \"ngân sách quảng cáo\"."
 ---
 
 # Claude Ads
@@ -308,6 +308,12 @@ never hardcode `~/.claude`. Load only what the request needs:
 - `references/status-contract.md`: deterministic `/ads status` and `/ads next` evidence and priority rules.
 - `references/prompt-patterns.md`: worked routing, worker, evidence, mutation, and
   partial-failure examples for subtle cases.
+- `references/vietnam-market.md`, `vietnam-ad-compliance.md`, and
+  `vietnamese-ad-copy.md`: load all three when the request is written in
+  Vietnamese, names Vietnam, or bills in VND. Market numbers there are
+  illustrative and dated; legal text is "verify against primary source". A
+  regulated product (cosmetics, functional food, health service, medicine)
+  gets its pre-approval requirement stated first.
 - `claude_ads_core/schemas/v1/`: strict workflow and orchestration contracts;
   load only the schema for the artifact being produced or checked.
 - Platform audit and creative-spec references only for active platforms.

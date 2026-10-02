@@ -1,6 +1,6 @@
 ---
 name: ads-landing
-description: "Audit paid-ad landing pages for message match, mobile experience, performance, accessibility, trust, forms, consent, tracking, security, and conversion friction. Use for landing-page audit, post-click experience, LP audit, conversion-rate optimization, form optimization, ad-to-page message match, redirects, blocked navigation, or requests involving private, loopback, link-local, or metadata IP destinations."
+description: "Audit paid-ad landing pages for message match, mobile experience, performance, accessibility, trust, forms, consent, tracking, security, and conversion friction. Use for landing-page audit, post-click experience, LP audit, conversion-rate optimization, form optimization, ad-to-page message match, redirects, blocked navigation, or requests involving private, loopback, link-local, or metadata IP destinations. Also use when the request is written in Vietnamese, for example \"landing page chạy quảng cáo có ổn không\", \"trang đích quảng cáo\", \"tối ưu landing page cho quảng cáo\"."
 ---
 
 # Landing-Page Audit

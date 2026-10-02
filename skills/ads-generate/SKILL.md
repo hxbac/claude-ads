@@ -1,6 +1,6 @@
 ---
 name: ads-generate
-description: "Generate paid-ad image assets from a validated creative brief and brand profile using an explicitly configured image provider. Triggers on: generate ads, generate ad images, create ad creatives, create ad images, make ad images, generate visuals, make campaign visuals, generate images from campaign brief."
+description: "Generate paid-ad image assets from a validated creative brief and brand profile using an explicitly configured image provider. Triggers on: generate ads, generate ad images, create ad creatives, create ad images, make ad images, generate visuals, make campaign visuals, generate images from campaign brief. Also use when the request is written in Vietnamese, for example \"tạo hình ảnh quảng cáo\", \"làm ảnh banner quảng cáo\"."
 ---
 
 # Generate Ad Images

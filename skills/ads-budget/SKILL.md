@@ -1,6 +1,6 @@
 ---
 name: ads-budget
-description: "Plan and review paid-media budgets, bidding, pacing, marginal return, forecasts, CPA, ROAS, MER, LTV:CAC, constraints, and allocation across supported platforms. Use for ad budget allocation, media budget, bidding strategy, scaling, spend pacing, budget forecast, ROAS target, or investment tradeoffs."
+description: "Plan and review paid-media budgets, bidding, pacing, marginal return, forecasts, CPA, ROAS, MER, LTV:CAC, constraints, and allocation across supported platforms. Use for ad budget allocation, media budget, bidding strategy, scaling, spend pacing, budget forecast, ROAS target, or investment tradeoffs. Also use when the request is written in Vietnamese, for example \"lên ngân sách quảng cáo\", \"chia ngân sách quảng cáo\", \"ngân sách 20 triệu một tháng chạy quảng cáo\", \"tăng ngân sách quảng cáo\"."
 ---
 
 # Budget and Bidding
@@ -15,6 +15,12 @@ description: "Plan and review paid-media budgets, bidding, pacing, marginal retu
    evidence rather than blended averages alone.
 6. Return a decision-complete plan with platform/campaign amount, timing, owner,
    guardrails, success measure, and rollback trigger.
+
+Vietnam default: when the request is in Vietnamese or names Vietnam, state every
+amount in VND (per month and per day), ask whether spend includes VAT, and size
+the allocation with `ads/references/vietnam-market.md` (budget bands there are
+illustrative hypotheses). With cash on delivery, compute break-even on the
+delivered-and-paid rate, which the operator must supply. Answer in Vietnamese.
 
 Rules such as 70/20/10, fixed CPA multiples, fixed budget-to-CPA ratios, and fixed
 percentage scaling are optional heuristics, never universal authorization.

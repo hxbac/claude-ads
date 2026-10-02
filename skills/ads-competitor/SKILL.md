@@ -1,6 +1,6 @@
 ---
 name: ads-competitor
-description: "Research competitor paid-ad presence, messaging, creative, formats, landing pages, keyword and auction signals, transparent ad libraries, and strategic gaps across supported platforms. Use for competitor ads, ad libraries, ad spy, competitive PPC analysis, competitor creative, Google Ads Transparency, Meta Ad Library, or paid-media competitor research."
+description: "Research competitor paid-ad presence, messaging, creative, formats, landing pages, keyword and auction signals, transparent ad libraries, and strategic gaps across supported platforms. Use for competitor ads, ad libraries, ad spy, competitive PPC analysis, competitor creative, Google Ads Transparency, Meta Ad Library, or paid-media competitor research. Also use when the request is written in Vietnamese, for example \"xem quảng cáo của đối thủ\", \"nghiên cứu quảng cáo đối thủ\", \"thư viện quảng cáo đối thủ\"."
 ---
 
 # Competitor Ad Intelligence

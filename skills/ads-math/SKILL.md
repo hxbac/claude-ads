@@ -1,6 +1,6 @@
 ---
 name: ads-math
-description: "Calculate and model paid-media CPA, CPL, CPC, CPM, ROAS, MER, break-even targets, contribution margin, LTV:CAC, impression-share opportunity, budgets, forecasts, and experiment economics. Use for PPC math, ad calculator, break-even analysis, ROAS calculator, CPA calculator, budget forecast, LTV CAC, or MER."
+description: "Calculate and model paid-media CPA, CPL, CPC, CPM, ROAS, MER, break-even targets, contribution margin, LTV:CAC, impression-share opportunity, budgets, forecasts, and experiment economics. Use for PPC math, ad calculator, break-even analysis, ROAS calculator, CPA calculator, budget forecast, LTV CAC, or MER. Also use when the request is written in Vietnamese, for example \"tính ROAS\", \"tính CPA hòa vốn\", \"tính giá vốn quảng cáo\", \"tính lãi lỗ khi chạy quảng cáo\"."
 ---
 
 # Paid Media Financial Model
@@ -15,6 +15,11 @@ description: "Calculate and model paid-media CPA, CPL, CPC, CPM, ROAS, MER, brea
    contribution margin distinct.
 6. Return machine-readable inputs, formulas, outputs, sensitivities, and decision
    implications.
+
+Vietnam default: when the request is in Vietnamese or names Vietnam, use VND, say
+whether figures include VAT, and answer in Vietnamese. For cash on delivery ask
+for the cancel and return rate and calculate on delivered-and-paid orders;
+see `ads/references/vietnam-market.md`.
 
 Never fabricate missing financial inputs, hide division-by-zero, or present a point
 forecast without its assumptions.

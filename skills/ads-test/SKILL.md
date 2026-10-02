@@ -1,6 +1,6 @@
 ---
 name: ads-test
-description: "Design and evaluate paid-ad experiments with hypotheses, randomization units, sample-size and duration assumptions, guardrails, platform experiment tools, analysis, and decision rules. Use for A/B test, split test, experiment design, hypothesis, statistical significance, sample size, test duration, or experiment readout."
+description: "Design and evaluate paid-ad experiments with hypotheses, randomization units, sample-size and duration assumptions, guardrails, platform experiment tools, analysis, and decision rules. Use for A/B test, split test, experiment design, hypothesis, statistical significance, sample size, test duration, or experiment readout. Also use when the request is written in Vietnamese, for example \"thử nghiệm A/B quảng cáo\", \"test mẫu quảng cáo\", \"thử nghiệm quảng cáo\"."
 ---
 
 # Paid Media Experiment

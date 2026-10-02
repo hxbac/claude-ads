@@ -1,6 +1,6 @@
 ---
 name: ads-dna
-description: "Extract a public-safe brand and offer profile for paid advertising from an authorized website and operator input. Triggers on: brand DNA, brand profile, brand identity, brand style, brand colors, brand voice, visual identity, style guide, website brand analysis."
+description: "Extract a public-safe brand and offer profile for paid advertising from an authorized website and operator input. Triggers on: brand DNA, brand profile, brand identity, brand style, brand colors, brand voice, visual identity, style guide, website brand analysis. Also use when the request is written in Vietnamese, for example \"phân tích thương hiệu để chạy quảng cáo\", \"bộ nhận diện thương hiệu cho quảng cáo\"."
 ---
 
 # Brand and Offer Profile

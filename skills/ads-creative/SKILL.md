@@ -1,6 +1,6 @@
 ---
 name: ads-creative
-description: "Audit paid-ad copy, images, video, hooks, concepts, format coverage, platform-native fit, message match, creative fatigue, accessibility, and policy across supported platforms. Use for creative audit, ad creative, creative fatigue, creative diversity, ad copy review, video review, image review, or production priorities."
+description: "Audit paid-ad copy, images, video, hooks, concepts, format coverage, platform-native fit, message match, creative fatigue, accessibility, and policy across supported platforms. Use for creative audit, ad creative, creative fatigue, creative diversity, ad copy review, video review, image review, or production priorities. Also use when the request is written in Vietnamese, for example \"đánh giá mẫu quảng cáo\", \"kiểm tra hình ảnh video quảng cáo\", \"quảng cáo bị chán mắt\"."
 ---
 
 # Creative Audit

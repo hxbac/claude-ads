@@ -1,6 +1,6 @@
 ---
 name: ads-tiktok
-description: "Audit TikTok Ads measurement, Pixel and Events API, mobile-first creative, audiences, Smart+, Shop and commerce campaigns, bidding, budgets, pacing, attribution, and policy. Use for TikTok Ads, TikTok Pixel, Events API, Smart+, TikTok Shop Ads, GMV Max, Spark Ads, or TikTok campaign optimization."
+description: "Audit TikTok Ads measurement, Pixel and Events API, mobile-first creative, audiences, Smart+, Shop and commerce campaigns, bidding, budgets, pacing, attribution, and policy. Use for TikTok Ads, TikTok Pixel, Events API, Smart+, TikTok Shop Ads, GMV Max, Spark Ads, or TikTok campaign optimization. Also use when the request is written in Vietnamese, for example \"quảng cáo TikTok\", \"chạy quảng cáo TikTok\", \"kiểm tra TikTok Ads\"."
 ---
 
 # TikTok Ads Audit

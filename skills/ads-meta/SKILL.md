@@ -1,6 +1,6 @@
 ---
 name: ads-meta
-description: "Audit Meta Ads measurement, Pixel and Conversions API, attribution, Facebook and Instagram creative, audiences, placements, automation, budgets, account structure, and policy. Use for Meta Ads, Facebook Ads, Instagram Ads, Advantage+, Pixel, CAPI, Events Manager, creative fatigue, or Meta campaign optimization."
+description: "Audit Meta Ads measurement, Pixel and Conversions API, attribution, Facebook and Instagram creative, audiences, placements, automation, budgets, account structure, and policy. Use for Meta Ads, Facebook Ads, Instagram Ads, Advantage+, Pixel, CAPI, Events Manager, creative fatigue, or Meta campaign optimization. Also use when the request is written in Vietnamese, for example \"chạy quảng cáo Facebook\", \"quảng cáo Facebook\", \"quảng cáo Instagram\", \"kiểm tra Facebook Ads\"."
 ---
 
 # Meta Ads Audit
